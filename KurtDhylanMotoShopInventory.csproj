@@ -17,7 +17,7 @@
 
   <ItemGroup>
     <MauiIcon Include="Resources\AppIcon\appicon.svg" />
-    <MauiImage Include="Resources\Images\**" />
+    <MauiImage Include="Resources\Images\kurt_icon.png" />
   </ItemGroup>
 
   <ItemGroup>
